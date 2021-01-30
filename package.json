@@ -1,0 +1,11 @@
+{
+  "name": "nodepython",
+  "version": "1.0.0",
+  "description": "learning node python combo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuldip Prajapati",
+  "license": "ISC"
+}
